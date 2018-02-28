@@ -2,13 +2,12 @@
 tampandanberani
 
 
-Scene 1 (Kampanye)
-* ada 3 calon pemimpin 
+Scene 1 (Kampanye) 
 # ada calon 2 pemimpin
 * 2 calon pemimpin yang baik dan memiliki solusi yang baik pula
 
 Scene 2(Penggambaran dari kondisi desa)
-* Dari 2 calon baik tersebut memiliki kepribadian dan solusi yang baik tapi hanya ada 1 calon pemimpin yang cocok/tepat
+* Di ilustrasikan desa tersebut memiliki masalah yang kompleks (ekonomi, keadilan,
 
 Scene 3 (black campaign)
 * 1 calon pemimpin yang terlihat baik tapi melakukan black campaign
