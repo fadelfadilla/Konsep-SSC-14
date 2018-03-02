@@ -1,6 +1,9 @@
-# Konsep-SSC-14
+# Konsep-SSC-15
 tampandanberani
 
+# Kata Kunci
+- Memilih pemimpin
+- 
 
 Scene 1 (Kampanye) 
 # ada calon 2 pemimpin
